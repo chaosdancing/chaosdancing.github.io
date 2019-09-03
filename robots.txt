@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://chaosdancing.github.io/sitemap.xml

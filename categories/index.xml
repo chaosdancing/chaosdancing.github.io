@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Chaos Dancing With Angel</title>
+    <link>https://chaosdancing.github.io/categories/</link>
+    <description>Recent content in Categories on Chaos Dancing With Angel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved - 2018</copyright>
+    
+	<atom:link href="https://chaosdancing.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>life</title>
+      <link>https://chaosdancing.github.io/categories/life/</link>
+      <pubDate>Wed, 28 Aug 2019 22:58:36 +0800</pubDate>
+      
+      <guid>https://chaosdancing.github.io/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>https://chaosdancing.github.io/categories/tools/</link>
+      <pubDate>Sun, 11 Nov 2018 10:00:55 +0800</pubDate>
+      
+      <guid>https://chaosdancing.github.io/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
